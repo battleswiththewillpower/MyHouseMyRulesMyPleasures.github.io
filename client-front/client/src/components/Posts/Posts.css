@@ -1,0 +1,17 @@
+.posts {
+    flex: 9;
+    flex-wrap: wrap;
+    display: flex;
+    margin-bottom: 4rem;
+    
+}
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration:underline;
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-family: Apple Chancery;
+    margin-bottom: 30px;
+}

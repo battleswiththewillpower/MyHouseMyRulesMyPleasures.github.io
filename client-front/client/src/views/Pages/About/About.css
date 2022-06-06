@@ -1,0 +1,15 @@
+.about {
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 4rem;
+    margin-bottom: 8rem;
+}
+
+.about img {
+    width: 80vw;
+}
+
+.about p {
+    font-size: larger;
+    font-weight: 600;
+}

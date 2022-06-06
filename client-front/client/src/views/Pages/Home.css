@@ -1,0 +1,8 @@
+.home {
+    display: flex;
+    background-color: #ffb957;
+}
+
+.banner, .header {
+    background-color: #ffb957;
+}

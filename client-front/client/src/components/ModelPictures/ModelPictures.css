@@ -1,0 +1,53 @@
+.modelbody {
+    background-color: #ffb957;
+    
+    
+}
+
+.modelbody img {
+    width: 100%;
+  }
+    
+  .toppic, .mid, .bot {
+    display: flex;
+    flex-direction: row;
+  }
+  .toppic {
+    justify-content: space-evenly;
+  }
+  
+  .floral {
+  margin-top: 8rem;
+  /* margin-right: 1rem; */
+  }
+
+  .mid {
+    margin-top: 2rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+  
+  .braids {
+    margin-bottom: 9rem;
+    margin-left: 8rem;
+  }
+  
+ .curls {
+margin-left: 4rem;
+ }
+
+  
+  .bot {
+    margin-top: 2rem;
+    margin-left: 2rem;
+  }
+  
+ 
+  
+  .goldRobot {
+    margin-top: 16rem;
+    position: relative;
+    right: 4.5rem;
+  
+  }
